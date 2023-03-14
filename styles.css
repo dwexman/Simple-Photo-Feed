@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+
+}
+
+section {
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.box {
+    border: 1px solid rgb(196, 191, 191); 
+    border-radius: 5px;
+    margin: auto;
+    align-items: center;
+    background-color: white;
+    width: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img {
+    width: 100%;
+}
+
+.header h2 {
+    display: inline;
+    padding: 7px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+}
+
+.texto {
+    padding: 7px;
+}
+
+.fecha {
+    margin: 0;
+    float: right;
+}
